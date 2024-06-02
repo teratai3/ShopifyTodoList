@@ -1,0 +1,2 @@
+# 説明
+codeigniter4のモジュール機能を利用してshopifyのアプリにtodoリスト機能を追加します。
